@@ -26,7 +26,7 @@ self-hosted alternative to managed cloud preservation such as Preservica and Ark
 
 ### 💳 Multi-protocol agent payment gateway
 Chain-agnostic agent payment negotiation: an x402 facilitator running **x402, AP2, A2A and MPP**
-across seven chains, where every settlement produces a post-quantum signed receipt an auditor
+across seven chains, where every settlement produces a signed, offline-verifiable receipt an auditor
 recomputes offline with stock open-source tools. Operator custody, no phone-home. Run it three
 ways: hosted pay-as-you-go, hosted multi-tenant, or self-hosted.
 → [Payment gateway](https://algovoi.co.uk/payment-gateway.html) · [Docs](https://docs.algovoi.co.uk/payment-rails-sqlite)
