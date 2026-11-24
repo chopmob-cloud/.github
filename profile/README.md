@@ -33,6 +33,12 @@ ways: hosted pay-as-you-go, hosted multi-tenant, or self-hosted.
 
 ## Featured open source (Apache-2.0)
 
+- [**algovoi-agent-guard**](https://github.com/chopmob-cloud/algovoi-agent-guard) — The budget your
+  agent can't raise: human-signed spend mandates with offline-verifiable receipts, plus a pluggable
+  AI/human/file/fuzz red team (Python reference).
+- [**algovoi-agent-guard-ts**](https://github.com/chopmob-cloud/algovoi-agent-guard-ts) — TypeScript
+  port of the spend-mandate guard, byte-conformant with the frozen L1 conformance vectors and the
+  Python reference.
 - [**avm-proofpack**](https://github.com/chopmob-cloud/avm-proofpack) — A Python library for
   offline Algorand and Voi state-proof verification: portable, recomputable transaction evidence.
 - [**algovoi-rfc9421-verifier**](https://github.com/chopmob-cloud/algovoi-rfc9421-verifier) —
